@@ -1,7 +1,14 @@
-.head {
+.header {
     padding: 60px;
     text-align: center;
     font-size: 30px;
     background: white;
     color: #3C1874
+}
+
+.foot {
+    padding: 60px;
+    text-align: center;
+    font-size: 15px;
+    background: white;
 }
